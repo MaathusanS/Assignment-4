@@ -1,5 +1,5 @@
 .turingtitle {
-  background-color: #14213D;
+  background-color: #14213d;
   color: white;
   text-align: center;
   font-family: 'Cinzel', serif;
@@ -8,7 +8,7 @@
 }
 
 .navbar {
-  background-color: #14213D;
+  background-color: #14213d;
   font-size: 300%;
   position: -webkit-sticky;
   position: sticky;
@@ -28,29 +28,29 @@
 }
 
 .navbar a:hover {
-  background-color: #FCA311;
+  background-color: #fca311;
 }
 
 .turingpic {
   width: 20%;
   height: 20%;
-  border: 7px solid #FCA311;
+  border: 7px solid #fca311;
 }
 
 .quote {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   color: black;
   font-family: 'Gloria Hallelujah', cursive;
   text-align: center;
 }
 
 .header1 {
-  background-color: #FCA311;
+  background-color: #fca311;
   font-family: Cinzel,serif;
 }
 
 .history {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   font-family: 'Cinzel', serif;
   font-size: 170%;
   overflow: auto;
@@ -69,7 +69,7 @@
 }
 
 .accomp {
-  background-color: #E5E5E5;
+  background-color: #e5e5e5;
   font-family: 'Cinzel', serif;
   font-size: 170%;
   overflow: auto;
@@ -88,7 +88,7 @@
 }
 
 .info {
-  background-color: #14213D;
+  background-color: #14213d;
   overflow: auto;
 }
 
